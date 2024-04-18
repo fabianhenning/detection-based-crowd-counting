@@ -1,5 +1,5 @@
 ## Data
-- [[WIDER FACE](http://shuoyang1213.me/WIDERFACE/)] [paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Yang_WIDER_FACE_A_CVPR_2016_paper.pdf) SOTAs: [easy](https://paperswithcode.com/sota/face-detection-on-wider-face-easy) [medium](https://paperswithcode.com/sota/face-detection-on-wider-face-medium) [hard](https://paperswithcode.com/sota/face-detection-on-wider-face-hard)
+- [[WIDER FACE](http://shuoyang1213.me/WIDERFACE/)] [paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Yang_WIDER_FACE_A_CVPR_2016_paper.pdf) SOTAs: [easy](https://paperswithcode.com/sota/face-detection-on-wider-face-easy) [medium](https://paperswithcode.com/sota/face-detection-on-wider-face-medium) [hard](https://paperswithcode.com/sota/face-detection-on-wider-face-hard) github topics: [widerface](https://github.com/topics/widerface) [widerface-dataset](https://github.com/topics/widerface-dataset)
 
 ## Code
 - [[YOLO-CROWD](https://github.com/zaki1003/YOLO-CROWD)] ![GitHub stars](http://img.shields.io/github/stars/zaki1003/YOLO-CROWD.svg?logo=github&label=Stars) a lightweight crowd counting and face detection model that is based on [[YOLO-FaceV2](https://github.com/Krasjet-Yu/YOLO-FaceV2)] ![GitHub stars](http://img.shields.io/github/stars/Krasjet-Yu/YOLO-FaceV2.svg?logo=github&label=Stars)
