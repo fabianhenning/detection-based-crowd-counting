@@ -4,8 +4,8 @@
 ## Code
 - [[YOLO-CROWD](https://github.com/zaki1003/YOLO-CROWD)] ![GitHub stars](http://img.shields.io/github/stars/zaki1003/YOLO-CROWD.svg?logo=github&label=Stars) A lightweight crowd counting and face detection model that is based on [[YOLO-FaceV2](https://github.com/Krasjet-Yu/YOLO-FaceV2)] ![GitHub stars](http://img.shields.io/github/stars/Krasjet-Yu/YOLO-FaceV2.svg?logo=github&label=Stars)
 - [[YOLO-FaceV2](https://github.com/Krasjet-Yu/YOLO-FaceV2)] ![GitHub stars](http://img.shields.io/github/stars/Krasjet-Yu/YOLO-FaceV2.svg?logo=github&label=Stars)[[paper](https://arxiv.org/abs/2208.02019)] A Scale and Occlusion Aware Face Detector
-- [[YOLOv8Face](https://github.com/derronqi/yolov8-face)] ![GitHub stars](http://img.shields.io/github/stars/https://github.com/derronqi/yolov8-face.svg?logo=github&label=Stars)
-- [[YOLOv7Face](https://github.com/derronqi/yolov7-face)] ![GitHub stars](http://img.shields.io/github/stars/https://github.com/derronqi/yolov7-face.svg?logo=github&label=Stars)
+- [[YOLOv8Face](https://github.com/derronqi/yolov8-face)] ![GitHub stars](http://img.shields.io/github/stars/derronqi/yolov8-face.svg?logo=github&label=Stars)
+- [[YOLOv7Face](https://github.com/derronqi/yolov7-face)] ![GitHub stars](http://img.shields.io/github/stars/derronqi/yolov7-face.svg?logo=github&label=Stars)
 - [[YOLOv5Face](https://github.com/deepcam-cn/yolov5-face)] ![GitHub stars](http://img.shields.io/github/stars/deepcam-cn/yolov5-face.svg?logo=github&label=Stars)[[paper](https://arxiv.org/abs/2105.12931)] Why Reinventing a Face Detector
 
 ## Papers
